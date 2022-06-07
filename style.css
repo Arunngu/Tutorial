@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    height: 100%;
+}
+
+
+
+.hello{
+    height: 200px;
+    width: 500px;
+    border: 1px solid royalblue;
+    border-radius: 4px;
+}
